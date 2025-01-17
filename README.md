@@ -1,8 +1,6 @@
-# web-dev-starter
+# About Page
 
-This is a starter project for web development with no frameworks and minimal
-dependencies. It is intended to be a starting point for web development projects
-that are written in plain HTML, CSS, and JavaScript.
+This is a webpage about me, Zoe, where you can find some information regarding my name, when I expect to graduate, if I currently have a web development job, and if I have had a job or internship doing web development. There are two images of me as well. There is a button at the bottom of the page to show the alert for the helloWorld function.
 
 ## Getting Started
 
@@ -12,6 +10,8 @@ To get started, clone this repository and run the following commands:
 npm install
 ```
 This will install the necessary dependencies for the project.
+
+Then start the live server to see the webpage. 
 
 ## Development
 
