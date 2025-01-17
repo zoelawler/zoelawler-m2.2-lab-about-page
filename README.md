@@ -11,7 +11,7 @@ npm install
 ```
 This will install the necessary dependencies for the project.
 
-Then start the live server to see the webpage. 
+Then start the live server to view the webpage. 
 
 ## Development
 

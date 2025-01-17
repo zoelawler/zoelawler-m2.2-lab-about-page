@@ -47,14 +47,14 @@ ul li {
 .list {
   max-width: 500px;
 }
-.me1, .me2 {
+.img1, .img2 {
   border-radius: 10%;
   box-shadow: -5px 5px 10px black;
   border: 8px solid white;
 }
-.me1 {
+.img1 {
   max-width: 300px;  
 }
-.me2 {
+.img2 {
   max-width: 400px;
 }
